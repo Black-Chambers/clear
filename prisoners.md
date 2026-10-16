@@ -13,3 +13,4 @@ The duration between taps indicates the signal, a short pause (1 count) after a 
 Tap code (Polybius square): used by prisoners of war.
 Letters sit on a 5×5 grid (C and K shared) and are sent as a group of taps for the row, a pause, then a group for the column.
 It needs only tap count and pause length, with no dit/dah distinction.
+https://en.wikipedia.org/wiki/Tap_code
